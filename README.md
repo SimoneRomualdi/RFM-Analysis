@@ -69,6 +69,4 @@ Trattare tutti i clienti allo stesso modo è uno spreco di risorse: i Campioni m
 
 ---
 
-```
-
-**Stack**: BigQuery (SQL) · Power BI
+**Tecnologie utilizzate**: BigQuery (SQL) · Power BI
